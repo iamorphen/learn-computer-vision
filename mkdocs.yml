@@ -1,0 +1,17 @@
+site_name: Learn Computer Vision
+site_url: "" #TODO(orphen) Update this.
+
+theme:
+  name: material
+  palette:
+    primary: white
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/iamorphen/learn-computer-vision
+
+repo_url: https://github.com/iamorphen/learn-computer-vision
+
+nav:
+  - Introduction: introduction.md

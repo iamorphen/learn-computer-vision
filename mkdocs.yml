@@ -17,6 +17,7 @@ nav:
   - Introduction: introduction.md
   - Spatial Domain:
     - Introduction: spatial_domain/introduction.md
+    - Basic Techniques: spatial_domain/basic_techniques.md
 
 markdown_extensions:
   - pymdownx.arithmatex:

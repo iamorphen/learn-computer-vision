@@ -28,3 +28,15 @@ my_equation = ...
 $$
 <!-- prettier-ignore-end -->
 ```
+
+Code examples should be added directly to the Markdown files they are relevant
+to.
+
+Solutions should be added as additional Markdown pages, linked to from other
+relevant Markdown pages, and _not_ added to the site navigation. Solutions
+should have corresponding implementations in Python. Organize the implementation
+files in `src/`, mirroring the organization in `docs/`. Design tests for use
+with pytest. Place tests in a `test` folder in the same folder the corresponding
+feature to test is implemented in.
+
+Run tests with `pytest` from the repository root.

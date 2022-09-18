@@ -1,3 +1,6 @@
 mkdocs
 mkdocs-material
+numpy
+Pillow
 pre-commit
+pytest

@@ -28,4 +28,15 @@ $$
 $$
 <!-- prettier-ignore-end -->
 
-The standard deviation is the square root of the variance.
+From statistics, we know that the standard deviation is the square root of the
+variance.
+
+## Challenge
+
+To get comfortable with working with images in your language and tooling of
+choice, implement two functions, one to compute the mean of an image and another
+to compute the variance. Whether to do the math yourself or use your math
+library's utility functions is up to you. Consider how you might report these
+measurements for RGB images and grayscale images.
+
+Example solutions are [here](./basic_techniques_solutions.md).

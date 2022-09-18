@@ -24,7 +24,7 @@ The variance is
 
 <!-- prettier-ignore-start -->
 $$
-\displaystyle \sigma_I = {{ 1 \over {N_{cols} \times M_{rows}}} \times \sum_{x = 1}^{N_{cols}} \sum_{y = 1}^{M_{rows}} [I(x, y) - \mu_I]^2 }
+\displaystyle \sigma_I^2 = {{ 1 \over {N_{cols} \times M_{rows}}} \times \sum_{x = 1}^{N_{cols}} \sum_{y = 1}^{M_{rows}} [I(x, y) - \mu_I]^2 }
 $$
 <!-- prettier-ignore-end -->
 

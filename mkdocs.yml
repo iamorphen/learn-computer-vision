@@ -1,5 +1,6 @@
 site_name: Learn Computer Vision
 site_url: "" #TODO(orphen) Update this.
+edit_uri: ""
 
 theme:
   name: material
@@ -20,8 +21,11 @@ nav:
     - Basic Techniques: spatial_domain/basic_techniques.md
 
 markdown_extensions:
+  - toc:
+      permalink: true
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.superfences
 
 extra_javascript:
   # For arithmatext, mathjax.

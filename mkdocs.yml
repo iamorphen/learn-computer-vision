@@ -14,7 +14,7 @@ extra:
 repo_url: https://github.com/iamorphen/learn-computer-vision
 
 nav:
-  - Introduction: introduction.md
+  - Introduction: index.md
   - Spatial Domain:
     - Introduction: spatial_domain/introduction.md
     - Basic Techniques: spatial_domain/basic_techniques.md
